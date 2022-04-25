@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="Center">Bhogasena Reddy Kalakata</p>
+logo: /assets/img/bhoga.jpg
+description: 
+<p align="center">
+  <a href="/assets/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/bhogasena-reddy-kalakata-a4aa0a74/">LinkedIn</a> |
+  <a href="https://github.com/bhogasena/">GitHub</a>
+ 
+  <br>  
+I am Pursuing  Master’s degree in Machine Learning & Artificial Intelligence and also working as a Application Designer and Developer in DHL Supply Chain. Before this role, I worked on Enterprise Architecture and Integration domain as Global Message Factory Coordinator, Integration Analyst and Architect.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
