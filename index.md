@@ -21,7 +21,8 @@ Compnay wants to understand the factors on which the demand for these shared bik
 The company wants to know:
 
 * Which variables are significant in predicting the demand for shared bikes.
-* How well those variables describe the bike demands
+* How well those variables describe the bike demands.
+
 This note book consists of complete end to end steps to solve the business problem by following the CRISP-DM framework starting from business understanding, data understanding, data visualization, data cleaning,  building linear regression model manually to select the features based on statistics (P-values and Variance Inflation Factor (VIF), Analyze the residuals, evaluate the model. 
 
 Notebook also consists of automated feature selection model, for which I started with Hyper parameter tuning using Grid search view cross validation in order to find out the optimal number of features followed by Recursive Feature Elimination (RFE) to select the top significant features and then build and evaluate the model. 
