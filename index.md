@@ -12,7 +12,9 @@ The following notebook contains a typical exploratory data Analsyis steps starti
 
 ## Multiple Linear Regression
 
+---
 ### Bike Sharing Prediction
+--- 
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -32,8 +34,12 @@ I ended of having almost same statistics for both manually selected features and
 
 <center><img src="assets/img/Bikes.jpg"/></center>
 
+---
+
+
 ### Advanced Regression model using Ridge and Lasso Regularisation for House Prices Prediction
 
+--- 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
  
 
