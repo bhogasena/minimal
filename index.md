@@ -32,4 +32,23 @@ I ended of having almost same statistics for both manually selected features and
 
 <center><img src="assets/img/Bikes.jpg"/></center>
 
+### Advanced Regression model using Ridge and Lasso Regularisation for House Prices Prediction
+
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
+ 
+
+The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+The company wants to know:
+
+*   Which variables are significant in predicting the price of a house, and
+*   How well those variables describe the price of a house.
+
+Also, determine the optimal value of lambda for ridge and lasso regression.
+
+Notebook consists of end to end steps to solve the business problem by following the CRISP-DM framework starting from business understanding, data understanding, data visualization, data cleaning, Build a regression model using Ridge and Lasso regularisation to find the optimal alpha parameters and then finally build a models with optimal alpha values using Ridge and Lasso. Lasso model got R2-Score better than Ridge model, and also as Lasso model shrinks some of the coefficients to zero which eliminates some of the features and so it would be the best choice to choose for this business problem.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bhogasena/House-Price-Prediction)
+
+<center><img src="assets/img/house_price.jpg"/></center>
 
