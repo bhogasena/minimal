@@ -58,3 +58,46 @@ Notebook consists of end to end steps to solve the business problem by following
 
 <center><img src="assets/img/house_price.jpg"/></center>
 
+---
+
+### 4. Telecom Churn Prediction using differrent Classification Models
+
+--- 
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.
+
+This project is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
+
+Notebook consists of end to end steps to solve the business problem by following the CRISP-DM framework starting from business understanding, data understanding, data visualization, data cleaning, Build different classification models such as Logistic regression, Random Forest and XGBoost etc. Got the accuracy of 93.124% using XGBoost Model.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bhogasena/TelecomChurn_Prediction)
+
+<center><img src="assets/img/telecomchurn.png"/></center>
+
+---
+
+### 5. Skin Cancer Detection using CNN.
+
+--- 
+This project is to build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+
+The data set contains the following diseases:
+
+Actinic keratosis
+Basal cell carcinoma
+Dermatofibroma
+Melanoma
+Nevus
+Pigmented benign keratosis
+Seborrheic keratosis
+Squamous cell carcinoma *bVascular lesion
+
+Notebook consists of how to create the Training and Valdiation datasets from directories using Keras library and create custom CNN model from scratch to detect the Melanoma based on images. Model got Training accuracy : 93%, Validation Accuracy : 83%
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bhogasena/Skin_Cancer_Detection_CNN)
+
+
